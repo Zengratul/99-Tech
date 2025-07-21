@@ -1,0 +1,8 @@
+# Ignore build output
+dist
+
+# Ignore node modules
+node_modules
+
+# Ignore main JS build file
+*.js
